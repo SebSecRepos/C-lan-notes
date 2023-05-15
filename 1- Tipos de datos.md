@@ -11,6 +11,7 @@
 	long double ld; //
 	int array [ 20 ]; //
 	int *ptr = array; //
+	FILE  
 ```
 
 El tamaño de los tipos de dato cambiará si la ejecución de **gcc** es
